@@ -1,5 +1,5 @@
 name: Validate static MkDocs pages
-on: pull_request
+on: push
 
 jobs:
   validate-mkdocs:
